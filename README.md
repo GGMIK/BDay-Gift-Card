@@ -1,6 +1,7 @@
 # title(){return this.options.title||this.options.name}
 
 ## Supporting Scrimba
+![giorgi1](https://user-images.githubusercontent.com/106009627/170828482-365ebd52-aaab-4ee9-9ccc-eb7a657a6e69.jpg)
 
 Since 2017, we have created over 20 free courses on Scrimba, and we're going to
 continue launching free courses. But to pay our bills, we have to charge once
@@ -14,4 +15,4 @@ in a while. So if you've ever wanted to "give back" to Scrimba, you can do that 
 	It would also mean the world to us if you share the courses.  
 
 Happy Coding!
-![giorgi1](https://user-images.githubusercontent.com/106009627/170828482-365ebd52-aaab-4ee9-9ccc-eb7a657a6e69.jpg)
+
